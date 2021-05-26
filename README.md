@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @velidp
+- 👋 Hi, I’m Velid Poško
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Intresting Projects
