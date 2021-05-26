@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Velid Poško
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular and Spring Boot
 - 💞️ I’m looking to collaborate on Intresting Projects
 - 📫 How to reach me https://www.linkedin.com/in/velid-po%C5%A1ko/
 
